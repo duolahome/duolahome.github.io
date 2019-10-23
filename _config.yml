@@ -95,8 +95,8 @@ navs:
     label: Home
 
   -
-    href: /微信小程序.html
-    label: Spring Boot
+    href: /mini.html
+    label: 微信小程序
     target: _self
 #     subnav:
 
@@ -109,7 +109,7 @@ navs:
 #         subLabel: Spring Cloud
 
   -
-    href: /HTML5.html
+    href: /html5.html
     label: HTML5
     target: _self
 
