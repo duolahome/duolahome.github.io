@@ -98,22 +98,22 @@ navs:
     href: /微信小程序.html
     label: Spring Boot
     target: _self
-    subnav:
+#     subnav:
 
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
+#       -
+#         subHref: /spring-boot.html
+#         subLabel: Spring Boot
 
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
+#       -
+#         subHref: /spring-cloud.html
+#         subLabel: Spring Cloud
 
   -
     href: /HTML5.html
     label: HTML5
     target: _self
 
-  -
+#   -
     
 #     href: http://www.justdojava.com
 #     label: Java
